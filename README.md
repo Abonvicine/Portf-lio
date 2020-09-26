@@ -9,4 +9,4 @@ O controle de tarefas desse projeto será realizado no GitHub.
 - :package: Atualização
 - :up: Nova Funcionalidade
 - :beetle: Correção de bugs
-- :checkered_flag: Release
+- :checkered_flag: Release  
